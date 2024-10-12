@@ -1,0 +1,49 @@
+@media (min-width: 1025px) {
+    main {
+        margin:80px;
+        display: flex;
+        flex-direction: row;
+    }
+
+    div {
+        width: 820px;
+        height: 346px;
+    }
+
+    img {
+        width: 300px;
+        height: 346px;
+    }
+
+    h1 {
+        font-size: 48px;
+        font-weight: 800;
+    }
+
+    p {
+        font-size: 23px;
+    }
+
+    button {
+        font-size: 32px;
+        font-weight: 800;
+        width: 500px;
+        background-color: #855454;
+    }
+
+    b {
+        font-size: 15px;
+        align-items: center;
+        
+
+    }
+
+    small {
+        display: flex;
+        font-size: 15px;
+        color: #403937;
+        font-family: 'Poppins', sans-serif;
+    }
+
+
+}
